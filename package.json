@@ -1,0 +1,20 @@
+{
+  "name": "discord-roblox-moderation-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "noblox.js": "^4.7.3",
+    "then-fs": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "zachariapopcorn#8105",
+  "license": "ISC"
+}
